@@ -1,0 +1,6 @@
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
+
+apple_id ENV["APPLE_ID"] # Your Apple email address
+itc_team_id("AcmeCorp") # App Store Connect Team ID
+team_id("AcmeCorp") # Developer Portal Team ID
