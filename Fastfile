@@ -1,5 +1,6 @@
 # Runs on circle CI
 skip_docs
+opt_out_usage
 min_fastlane_version("2.116.0")
 
 default_platform(:ios)
